@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# Proje Acıklamaı
+# Proje Acıklaması
 
 Kullanıcıdan tc, ad, soyad, gelir bilgisi ve telefon numarasının form yardımıyla alınıp backende yollayacak bir önyüz projesidir.
 Backend projedi kocfinans_demo repositorisinden bulabilirsiniz.
@@ -11,7 +11,7 @@ Backenden gelen sonuca göre kredi bavrusu sonucunda kullanıcıya (ONAY,RED) ve
 
 ilk olarak node.js kurulu olmalıdır. Sisteminize göre sitesinden indirebilirsiniz.
 
-create-react-app npm paketi yüklü olmalıdır. Node.js indirdikteno sonra alttaki kod çalıştırılmalıdır. 
+create-react-app npm paketi yüklü olmalıdır. Node.js indirdikten sonra alttaki kod çalıştırılmalıdır. 
 ```
 npm install -g create-react-app
  ```
@@ -29,7 +29,7 @@ npm install -g create-react-app
 
 
 ##Proje Önyüzü
-Uyarı proje Fullstack projesinin ön yüz kısmıdır. Backen kısmı icin kocfinans-demo projesinin indirip calıstırmalısız. 
+Uyarı proje Fullstack projesinin ön yüz kısmıdır. Backend kısmı icin kocfinans-demo projesinin indirip calıstırmalısız. 
 
 ## Form Ekranı
 ![KrediBasvuruEkranı](https://user-images.githubusercontent.com/26394549/92422945-e995a980-f187-11ea-9962-50cbcbabaa2e.png)
