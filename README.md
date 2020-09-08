@@ -28,7 +28,7 @@ npm install -g create-react-app
  ```
 
 
-##Proje Önyüzü
+## Proje Önyüzü
 Uyarı proje Fullstack projesinin ön yüz kısmıdır. Backend kısmı icin kocfinans-demo projesinin indirip calıstırmalısız. 
 
 ## Form Ekranı
