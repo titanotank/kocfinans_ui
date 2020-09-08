@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Proje Acıklamaı
+
+Kullanıcıdan tc, ad, soyad, gelir bilgisi ve telefon numarasının form yardımıyla alınıp backende yollayacak bir önyüz projesidir.
+Backend projedi kocfinans_demo repositorisinden bulabilirsiniz.
+Backenden gelen sonuca göre kredi bavrusu sonucunda kullanıcıya (ONAY,RED) ve limit bilgisi döndürülür.
+
+
 
 # Gereksinimler
 
